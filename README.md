@@ -107,8 +107,6 @@ Power BI, Excel, DAX
 
 ---
 
-Obrigado!
-
 ## Contato
 
 - Telefone: (31) 97358-3529
