@@ -7,6 +7,7 @@ Tenho histórico comprovado na entrega de análises que geram impacto financeiro
 ---
 
 ## Projetos
+
 ![Dashboard](Desvio_Preço_Impacto_Produto.png)
 ### Monitoramento de Desvio de Preço
 
@@ -75,6 +76,57 @@ Dashboard focado em identificar e priorizar desvios de preço em anúncios de ma
 
 **Ferramentas:**  
 Power BI, Excel, SQL
+
+---
+### Dashboard de Gestão para Academia (Consultoria Externa)
+
+Dashboard desenvolvido como projeto de consultoria para uma academia, com o objetivo de centralizar indicadores operacionais, financeiros e de assinaturas em um único painel interativo. A solução permite acompanhar em tempo real o desempenho do negócio, facilitando a análise de receitas, contratos e crescimento da base de alunos.
+
+**Resultados e impacto:**
+
+- Centralização dos principais indicadores operacionais e financeiros em um único dashboard  
+- Melhor visibilidade sobre receitas, despesas e lucro mensal da academia  
+- Monitoramento claro do status das assinaturas (ativas e expiradas)  
+- Identificação rápida de contratos próximos ao vencimento, permitindo ações de renovação  
+- Apoio à gestão na tomada de decisões estratégicas sobre retenção de alunos e crescimento da receita  
+
+**Principais análises:**
+
+- Evolução financeira mensal (entradas, saídas e lucro)  
+- Distribuição de assinantes por tipo de plano (Platinum, Gold e Silver)  
+- Comparação entre assinaturas ativas e expiradas  
+- Monitoramento do progresso e status de contratos dos alunos  
+- Evolução mensal de novos membros  
+- Indicadores gerais do negócio (clientes, funcionários, receitas e despesas)
+
+**Ferramentas:**  
+Power BI, Excel, DAX
+
+---
+
+### Dashboard de Gestão para Academia (Consultoria Externa)
+
+Dashboard desenvolvido como projeto de consultoria para uma academia, com o objetivo de centralizar indicadores operacionais, financeiros e de assinaturas em um único painel interativo. A solução permite acompanhar em tempo real o desempenho do negócio, facilitando a análise de receitas, contratos e crescimento da base de alunos.
+
+**Resultados e impacto:**
+
+- Centralização dos principais indicadores operacionais e financeiros em um único dashboard  
+- Melhor visibilidade sobre receitas, despesas e lucro mensal da academia  
+- Monitoramento claro do status das assinaturas (ativas e expiradas)  
+- Identificação rápida de contratos próximos ao vencimento, permitindo ações de renovação  
+- Apoio à gestão na tomada de decisões estratégicas sobre retenção de alunos e crescimento da receita  
+
+**Principais análises:**
+
+- Evolução financeira mensal (entradas, saídas e lucro)  
+- Distribuição de assinantes por tipo de plano (Platinum, Gold e Silver)  
+- Comparação entre assinaturas ativas e expiradas  
+- Monitoramento do progresso e status de contratos dos alunos  
+- Evolução mensal de novos membros  
+- Indicadores gerais do negócio (clientes, funcionários, receitas e despesas)
+
+**Ferramentas:**  
+Power BI, Excel, DAX
 
 ---
 
