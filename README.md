@@ -8,7 +8,7 @@ Tenho histórico comprovado na entrega de análises que geram impacto financeiro
 
 ## Projetos
 
-![Dashboard](Desvio_Preço_Impacto_Produto.png)
+![Dashboard](Desvio_Impacto_Produto.png)
 ### Monitoramento de Desvio de Preço
 
 Dashboard desenvolvido para monitorar anúncios em marketplaces e identificar desvios em relação ao preço sugerido (PSP), com foco em reduzir perdas financeiras e garantir compliance de preços.
