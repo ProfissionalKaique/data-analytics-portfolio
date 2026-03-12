@@ -56,7 +56,7 @@ Power BI, Excel, WebPrice
 
 ---
 
-![Dashboard](Faixa_Desvio.png)
+![Dashboard](Faixa_Desvios.png)
 ### Monitoramento de Desvio por Produto e Seller
 
 Dashboard focado em identificar e priorizar desvios de preço em anúncios de marketplaces, oferecendo visão granular sobre produtos, sellers e marketplaces com maior impacto financeiro.
